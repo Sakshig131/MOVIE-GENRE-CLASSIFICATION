@@ -52,7 +52,7 @@ Dataset is provided by CodSoft Internship.
 ---
 
 ## 🔗 GitHub Repository
-(Add your repo link)
+[Click here to view the project](https://github.com/Sakshig131/MOVIE-GENRE-CLASSIFICATION)
 
 ---
 
