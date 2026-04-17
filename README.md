@@ -17,9 +17,13 @@ This project focuses on building a Machine Learning model to predict the genre o
 - (Add more if used)
 
 ---
-
 ## 📊 Results
-- Model accuracy achieved: XX% (update this)
+The model was evaluated using different algorithms:
+
+- Naive Bayes Accuracy: 49.37%
+- Logistic Regression Accuracy: 48.96%
+
+The results indicate moderate performance due to class imbalance in the dataset.
 
 ---
 
